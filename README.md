@@ -2,6 +2,10 @@
 
 A modern, fully-featured electronics e-commerce platform built with PHP, MySQL, Bootstrap 5, and JavaScript.
 
+# Demo Video
+
+![Video Link](https://drive.google.com/file/d/1iCctnj52wxTHuGVUkKo7jQ1ckiI3eRbJ/view?usp=sharing)
+
 ## Features
 
 ### Customer Features
