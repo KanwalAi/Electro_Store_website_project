@@ -4,7 +4,7 @@ A modern, fully-featured electronics e-commerce platform built with PHP, MySQL, 
 
 # Demo Video
 
-![Video Link](https://drive.google.com/file/d/1iCctnj52wxTHuGVUkKo7jQ1ckiI3eRbJ/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1iCctnj52wxTHuGVUkKo7jQ1ckiI3eRbJ/view?usp=sharing)
 
 ## Features
 
